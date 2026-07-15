@@ -1,5 +1,12 @@
 # Claude Code Hooks Mastery
 
+
+<!-- AUTO-PACKAGE-BADGES:START -->
+<!-- Auto-generated package badges -->
+
+![npm version](https://img.shields.io/npm/v/task-manager?style=flat-square&logo=npm&color=blue) ![npm downloads](https://img.shields.io/npm/dw/task-manager?style=flat-square&color=brightgreen) ![npm license](https://img.shields.io/npm/l/task-manager?style=flat-square) [![Deployed](https://img.shields.io/badge/deployed-1.0.0-blue?style=flat-square)](https://www.npmjs.com/package/task-manager)
+
+<!-- AUTO-PACKAGE-BADGES:END -->
 [Claude Code Hooks](https://docs.anthropic.com/en/docs/claude-code/hooks) - Quickly master how to use Claude Code hooks to add deterministic (or non-deterministic) control over Claude Code's behavior. Plus learn about [Claude Code Sub-Agents](#claude-code-sub-agents), the powerful [Meta-Agent](#the-meta-agent), and [Team-Based Validation](#team-based-validation-system) with agent orchestration.
 
 <img src="images/hooked.png" alt="Claude Code Hooks" style="max-width: 800px; width: 100%;" />
